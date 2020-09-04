@@ -1,0 +1,81 @@
+body {
+    text-align: center;
+    background-color: blue;
+    background-attachment: fixed;
+    background-size: cover;
+}
+footer{
+  font-size: 45px;
+  font-family: sans-serif;
+  background-color: yellow;
+  color:#1BF317;
+  border: 6px inset red;
+}
+h1, h2, h3, input, button {
+    font-family: 'times new roman';
+}
+
+input {
+    text-align: center;
+    font-family: 'sans serif';
+    background: black;
+    font-size: 25px;
+    width: 70px;
+    border-radius: 25px;
+    color: white;
+}
+
+marquee {
+    width: 350px;
+    color: white;
+    border-style:solid;
+    background-color: yellow;
+    color:#0002FF;
+}
+
+button {
+    padding: 26px;
+    font-size: 25px;
+    color: #0002FF;
+    background: yellow;
+    border-radius: 77%;                 
+    display: inline-block;
+    margin: 2px 2px;
+    
+}
+
+#end {
+    color: white;
+}
+
+
+#start {    
+    text-align: center;
+    margin-top: 10px;
+    margin-right:1px;
+    margin-left: 14px;
+    margin-bottom: 10px; 
+}
+
+#plus {   
+    text-align: center;
+    margin-top: 15px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    }
+
+#minus {
+      text-align: center;
+      margin-top: 10px;
+      margin-right: 20px;
+      margin-bottom: 10px;
+}
+
+#stop {
+    text-align: center;
+    margin-top: 10px;
+    margin-right:10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-size:22px;
+}
